@@ -1,0 +1,6 @@
+logging:
+ file.path: ${user.home}/logs/smart-screen-server
+ level.com.redscarf: DEBUG
+
+spring:
+ application.name: smart-screen-server
